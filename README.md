@@ -1,7 +1,7 @@
 <div align="center" > 
-<h3>
+<h2>
 If the world hates you, it's my enemy ...
-</h3>
+</h2>
 <img 
 src="fireworks.gif" 
 alt="fireworks" 
