@@ -1,6 +1,6 @@
 <div align="center" > 
 <h2>
-If the world hates you, it's my enemy ...
+<i>If the world hates you, it's my enemy ...</i>
 </h2>
 <img 
 src="fireworks.gif" 
